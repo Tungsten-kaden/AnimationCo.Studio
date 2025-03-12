@@ -1,0 +1,22 @@
+.main_heading {
+    color: #0131c3;
+    
+}
+.h1{
+    color: #0131c3;
+}
+.topnav{
+    overflow: hidden;
+    background-color: #0bd4cd;
+}
+
+
+.topnav a {
+    display: block;
+  color: rgb(23, 255, 6);
+  font-size: 17px;
+}
+
+    .topnav input[type=text] {
+      border: 3px solid #00ff04;
+    }
